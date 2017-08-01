@@ -1,2 +1,7 @@
 # learningSources
-Where to learn
+
+* Javascript
+https://github.com/bpesquet/thejsway/#
+
+* Go
+https://www.golang-book.com/books/intro
