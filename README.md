@@ -13,3 +13,5 @@
   * https://ethereumdev.io/
 * React
   * https://www.robinwieruch.de/learn-react-before-using-redux/
+* TensorFlow
+  * https://www.tensorflow.org
