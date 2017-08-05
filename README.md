@@ -11,3 +11,5 @@
   * https://guides.github.com/features/mastering-markdown/
 * Ethereum
   * https://ethereumdev.io/
+* React
+  * https://www.robinwieruch.de/learn-react-before-using-redux/
