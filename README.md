@@ -1,6 +1,6 @@
 # learningSources
 
-* HTML + CSS
+* HTML & CSS
   * https://www.w3schools.com/html/
   * http://www.learn-html.org/
 * Javascript
