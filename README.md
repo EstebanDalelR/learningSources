@@ -12,6 +12,7 @@
 * Ethereum
   * https://ethereumdev.io/
 * React
+  * https://facebook.github.io/react/
   * https://www.robinwieruch.de/learn-react-before-using-redux/
 * TensorFlow
   * https://www.tensorflow.org
