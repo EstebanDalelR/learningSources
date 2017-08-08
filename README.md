@@ -2,6 +2,9 @@
 
 * Javascript
   * https://github.com/bpesquet/thejsway/#
+* HTML + CSS
+  * http://www.learn-html.org/
+  * https://www.w3schools.com/html/
 * Go
   * https://www.golang-book.com/books/intro
 * Python
@@ -20,6 +23,4 @@
   * https://www.tensorflow.org
 * Unity
   * https://unity3d.com/learn
-* HTML & CSS
-  * https://www.w3schools.com/html/
-  * http://www.learn-html.org/
+
