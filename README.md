@@ -1,8 +1,5 @@
 # learningSources
 
-* HTML & CSS
-  * https://www.w3schools.com/html/
-  * http://www.learn-html.org/
 * Javascript
   * https://github.com/bpesquet/thejsway/#
 * Go
@@ -23,3 +20,6 @@
   * https://www.tensorflow.org
 * Unity
   * https://unity3d.com/learn
+* HTML & CSS
+  * https://www.w3schools.com/html/
+  * http://www.learn-html.org/
