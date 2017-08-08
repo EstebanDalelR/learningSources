@@ -14,6 +14,8 @@
 * React
   * https://facebook.github.io/react/
   * https://www.robinwieruch.de/learn-react-before-using-redux/
+* Meteor
+  * https://www.meteor.com/tutorials
 * TensorFlow
   * https://www.tensorflow.org
 * Unity
