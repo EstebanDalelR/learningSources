@@ -5,6 +5,7 @@
 * HTML + CSS
   * http://www.learn-html.org/
   * https://www.w3schools.com/html/
+  * https://www.w3schools.com/css/
 * Go
   * https://www.golang-book.com/books/intro
 * Python
