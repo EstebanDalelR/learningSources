@@ -27,6 +27,6 @@
 
 ---------------------------------------------
 * Best sites a programmer should visit
- * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+  * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * Projects for any languaje
- * https://github.com/karan/Projects
+  * https://github.com/karan/Projects
