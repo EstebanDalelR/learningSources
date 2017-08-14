@@ -31,3 +31,6 @@
   * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * Projects for any languaje
   * https://github.com/karan/Projects
+---------------------------------------------
+* Languajes
+  * https://www.duolingo.com/
