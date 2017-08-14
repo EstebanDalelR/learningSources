@@ -9,7 +9,7 @@
   * https://www.w3schools.com/css/
 * Go
   * https://www.golang-book.com/books/intro
-* Pythonhttps://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+* Python
   * https://learnpythonthehardway.org/
   * https://developers.google.com/edu/python/
 * Markdown
