@@ -2,13 +2,14 @@
 
 * Javascript
   * https://github.com/bpesquet/thejsway/#
+  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 * HTML + CSS
   * http://www.learn-html.org/
   * https://www.w3schools.com/html/
   * https://www.w3schools.com/css/
 * Go
   * https://www.golang-book.com/books/intro
-* Python
+* Pythonhttps://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
   * https://learnpythonthehardway.org/
   * https://developers.google.com/edu/python/
 * Markdown
