@@ -3,8 +3,10 @@
 * Javascript
   * https://github.com/bpesquet/thejsway/#
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+  * https://www.codeschool.com/learn/javascript
 * HTML + CSS
   * http://www.learn-html.org/
+  * https://www.codeschool.com/learn/html-css
   * https://www.w3schools.com/html/
   * https://www.w3schools.com/css/
 * Go
