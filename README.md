@@ -1,5 +1,6 @@
 # learningSources
 
+## Free (maybe a little fee)
 * Javascript
   * https://github.com/bpesquet/thejsway/#
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
@@ -28,6 +29,10 @@
   * https://www.tensorflow.org
 * Unity
   * https://unity3d.com/learn
+  
+## Paid 
+* CodeSchool
+  * https://www.codeschool.com/
 
 ---------------------------------------------
 ## Sites to visit
