@@ -30,10 +30,12 @@
   * https://unity3d.com/learn
 
 ---------------------------------------------
+## Sites to visit
 * Best sites a programmer should visit
   * https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 * Projects for any languaje
   * https://github.com/karan/Projects
 ---------------------------------------------
+## General knowledge
 * Languajes
   * https://www.duolingo.com/
