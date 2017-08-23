@@ -29,7 +29,9 @@
   * https://www.tensorflow.org
 * Unity
   * https://unity3d.com/learn
-  
+* General
+  * https://developer.mozilla.org/en-US/docs/Web
+
 ## Paid 
 * CodeSchool
   * https://www.codeschool.com/
