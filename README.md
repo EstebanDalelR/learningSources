@@ -25,6 +25,8 @@
   * https://www.codecademy.com/learn/react-101
 * Meteor
   * https://www.meteor.com/tutorials
+* Nodejs
+  * https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 * TensorFlow
   * https://www.tensorflow.org
 * Unity
