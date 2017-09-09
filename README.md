@@ -25,6 +25,8 @@
   * https://www.codecademy.com/learn/react-101
 * Meteor
   * https://www.meteor.com/tutorials
+* MongoDB
+  * https://university.mongodb.com/
 * Nodejs
   * https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
 * TensorFlow
@@ -34,6 +36,7 @@
 * General
   * https://developer.mozilla.org/en-US/docs/Web
 
+---------------------------------------------
 ## Paid 
 * CodeSchool
   * https://www.codeschool.com/
@@ -45,6 +48,7 @@
 * Projects for any languaje
   * https://github.com/karan/Projects
 ---------------------------------------------
+
 ## General knowledge
 * Languajes
   * https://www.duolingo.com/
